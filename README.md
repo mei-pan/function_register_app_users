@@ -1,17 +1,15 @@
-# function_register_app_users
+
 <p align="center">
-  <img src=https://github.com/mei-pan/nutrition_calculator/blob/main/image.jpg alt="curtesy of DataCamp" width='auto', height='auto'>
+  <img src=https://github.com/mei-pan/function_register_app_users/blob/main/ilya-pavlov-OqtafYT5kTw-unsplash.jpg alt="curtesy of DataCamp" width='700', height='400'>
 </p>
 
-# Nutrition Calulator  
+# Function to Register App Users   
 ## Data Source:
   DataCamp - thanks DataCamp for create this mini project!
 ## Tags:
   Python
 ## Introduction:
-Food nutrition plays a crucial role in our daily decisions to maintain optimal health. Whether it's individuals tracking their daily nutritional intake or others simply seeking quick nutritional information about specific food items, having an easy-to-use tool can make a world of difference. Imagine a tool where you enter the name of the food item(s) and weights in grams, and within seconds, you receive the total nutritional values.
-
-In this mini project, I developed a nutritional calculator using Python, designed specifically for this purpose. It provides a fast and efficient way to access detailed nutritional information, empowering users to make informed choices about their health. 
+this mini project is aim to use Python to create a function that takes in username, email address, and password and check whether those meet the registeration requriements. inform users what to change based on the error! 
 
 ## [Notebook Link](https://github.com/mei-pan/nutrition_calculator/blob/main/nutrition_calculator.ipynb) 
 
